@@ -1,0 +1,35 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://mouseonthekey.github.io/
+# baseurl: /sustain/
+title: Nenad Bubalo
+author: Nenad Bubalo
+description: Personal blog and resume
+avatar: slika.png
+email: nenad.bubalo@mail.com
+facebook: username
+github: mouseonthekey # username
+instagram: username
+lastfm: username
+#twitter: username
+#linkedin: username
+xing: username
+stackoverflow: users/11832202/mouse-on-the-keys   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus: username
+# google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
