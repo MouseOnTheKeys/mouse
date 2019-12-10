@@ -4,6 +4,10 @@ html,
 body {
   height: 100%;
   background-color: #fff;
+  background-image: url('dim.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #7a00cc;
