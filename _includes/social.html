@@ -6,9 +6,20 @@
     {% if site.email %}
 	  <a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a>
     {% endif %}
-
     {% if site.twitter %}
 	  <a href="http://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
+		{% endif %}
+    {% if site.xing %}
+	  <a href="https://www.xing.com/profile/{{ site.xing }}"><i class="fa fa-xing"></i></a>
+		{% endif %}
+    {% if site.facebook %}
+	  <a href="https://www.facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a>
+		{% endif %}
+    {% if site.instagram %}
+	  <a href="https://www.instagram.com/{{ site.instagram }}"><i class="fa fa-instagram"></i></a>
+		{% endif %}
+    {% if site.lastfm %}
+	  <a href="https://www.last.fm/user/{{ site.lastfm }}"><i class="fa fa-lastfm"></i></a>
     {% endif %}
     {% if site.linkedin %}
 	  <a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>

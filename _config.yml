@@ -12,19 +12,19 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://mouseonthekey.github.io/
-# baseurl: /sustain/
+#baseurl: /sustain/
 title: Nenad Bubalo
 author: Nenad Bubalo
 description: Personal blog and resume
 avatar: slika.png
 email: nenad.bubalo@mail.com
-facebook: username
+facebook: nenad.bubalo
 github: mouseonthekey # username
-instagram: username
-lastfm: username
+instagram: grumpyraccoon
+lastfm: MouseOnTheKeyz
 #twitter: username
 #linkedin: username
-xing: username
+xing: Nenad_Bubalo
 stackoverflow: users/11832202/mouse-on-the-keys   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 disqus: username
