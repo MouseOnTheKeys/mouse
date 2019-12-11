@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://mouseonthekeys.github.io/
-#baseurl: http://mouseonthekey.github.io/
+baseurl: http://mouseonthekeys.github.io/
 title: Nenad Bubalo
 author: Nenad Bubalo
 description: Personal blog and resume
