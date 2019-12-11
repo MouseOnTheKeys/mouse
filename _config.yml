@@ -11,7 +11,7 @@ gems:
 port: 3000
 safe: true
 
-name: Mouse On The Keys - Nenad Bubalo Blog's Name
+name: Nenad Bubalo Blog - Mouse On The Keys  
 description: A description for your blog
 url: https://mouseonthekeys.github.io/
 # edit here to achieve your personal greatness
