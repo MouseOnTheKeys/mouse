@@ -12,6 +12,9 @@
     {% if site.xing %}
 	  <a href="https://www.xing.com/profile/{{ site.xing }}"><i class="fa fa-xing"></i></a>
 		{% endif %}
+    {% if site.stackoverflow %}
+	  <a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
+		{% endif %}
     {% if site.facebook %}
 	  <a href="https://www.facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a>
 		{% endif %}
@@ -23,9 +26,6 @@
     {% endif %}
     {% if site.linkedin %}
 	  <a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>
-    {% endif %}
-    {% if site.stackoverflow %}
-	  <a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
     {% endif %}
 	</h4>
 </div>
