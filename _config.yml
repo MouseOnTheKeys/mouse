@@ -6,6 +6,7 @@ rdiscount:
 permalink: /:title.html
 paginate: 5
 plugins: [jekyll-paginate]
+  - jekyll-feed
 port: 3000
 safe: true
 
