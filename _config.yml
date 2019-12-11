@@ -2,11 +2,11 @@
 highlighter: rouge
 markdown: kramdown
 rdiscount:
-  extensions: [smart]
+extensions: [smart]
 permalink: /:title.html
 paginate: 5
 plugins: [jekyll-paginate]
-  - jekyll-feed
+ - jekyll-feed
 port: 3000
 safe: true
 
