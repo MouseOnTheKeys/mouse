@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://mouseonthekey.github.io/
-#baseurl: /sustain/
+baseurl: http://mouseonthekey.github.io/
 title: Nenad Bubalo
 author: Nenad Bubalo
 description: Personal blog and resume
@@ -27,7 +27,7 @@ lastfm: MouseOnTheKeyz
 xing: Nenad_Bubalo
 stackoverflow: users/11832202/mouse-on-the-keys   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
+disqus: nenad_bubalo
 # google_analytics: UA-69391421-1
 
 
