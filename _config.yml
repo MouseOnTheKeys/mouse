@@ -17,7 +17,7 @@ description: A description for your blog
 url: https://mouseonthekeys.github.io/
 # edit here to achieve your personal greatness
 
-#baseurl: http://mouseonthekeys.github.io/
+baseurl: /mouse/
 title: Nenad Bubalo
 author: Nenad Bubalo
 description: Personal blog and resume
