@@ -13,14 +13,14 @@ port: 3000
 safe: true
 
 name: Nenad Bubalo - Mouse On The Keys Blog`s
-description: A description for your blog
+description: Nenad Bubalo - Mechanical Engineer personal homepage
 url: https://nenadbubalo.com
 # edit here to achieve your personal greatness
 # napisati nesto da se razlikuje
 baseurl: /mouse/
 title: Nenad Bubalo
 author: Nenad Bubalo
-description: Personal blog and resume
+#description: Personal blog and resume
 avatar: slika.png
 email: nenad.bubalo@mail.com
 facebook: nenad.bubalo
