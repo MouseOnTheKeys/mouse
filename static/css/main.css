@@ -133,7 +133,7 @@ body {
   border-style: none;
 }
 .panel-body {
-  padding-top: -10px;
+  padding-top: 0;
   text-align: left;
 }
 .social {
@@ -178,7 +178,7 @@ body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid ##7a00cc;;
+  border-bottom: 5px solid #7a00cc;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
